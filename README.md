@@ -6,3 +6,4 @@
 | [What is create-web3-dapp?](https://docs.alchemy.com/docs/create-web3-dapp) | [awesome-dapp](https://github.com/shungo0222/Alchemy/tree/main/awesome-dapp) |
 | [CREATING SMART CONTRACTS / Hello World Smart Contract](https://docs.alchemy.com/docs/hello-world-smart-contract) | [hello-world-smart-contract](https://github.com/shungo0222/hello-world-smart-contract) | 
 | [Integrating Your Smart Contract with the Frontend](https://docs.alchemy.com/docs/integrating-your-smart-contract-with-the-frontend) | [hello-world-smart-contract-frontend-template](https://github.com/shungo0222/hello-world-smart-contract-frontend-template) |
+| [How to Code and Deploy a Polygon Smart Contract](https://docs.alchemy.com/docs/how-to-code-and-deploy-a-polygon-smart-contract) | [polygon-smart-contract-tutorial](https://github.com/shungo0222/polygon-smart-contract-tutorial) |
